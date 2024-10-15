@@ -203,7 +203,7 @@ echo "Mahasiswa: " . $mahasiswa->aksesFitur();
 
 Kita mengimplementasikan polimorfisme dengan membuat kelas dasar `Pengguna` dengan metode `aksesFitur()`, yang kemudian ditimpa di kelas `Dosen` dan `Mahasiswa` untuk memberikan implementasi yang berbeda.
 
-### Keluaran
+### Output
 
 ```
 Dosen: Akses fitur dasar dan fitur penilaian
@@ -250,7 +250,7 @@ echo $mahasiswa->aksesFitur();
 
 Kita membuat kelas abstrak `Pengguna` dengan metode abstrak `aksesFitur()`. Kelas `Dosen` dan `Mahasiswa` kemudian mengimplementasikan metode abstrak ini, mendemonstrasikan abstraksi.
 
-### Keluaran
+### Output
 
 ```
 Dosen Bu Rostika mengakses fitur penilaian
