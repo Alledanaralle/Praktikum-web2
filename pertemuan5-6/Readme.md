@@ -1,4 +1,4 @@
-# Proyek Implementasi OOP PHP
+# Proyek Implementasi OOP PHP Jobsheet 3
 
 Proyek ini mendemonstrasikan implementasi konsep Object-Oriented Programming (OOP) dalam PHP, mencakup Inheritance, Polymorphism, Encapsulation, dan Abstraction. Proyek ini dibuat sebagai bagian dari tugas Praktikum Pemrograman Web II.
 
