@@ -1,4 +1,4 @@
-# Proyek OOP PHP
+# Proyek OOP PHP Jobsheet 2
 
 Proyek ini mendemonstrasikan implementasi prinsip-prinsip Pemrograman Berorientasi Objek (OOP) dalam PHP. Proyek ini mencakup konsep-konsep berikut:
 
